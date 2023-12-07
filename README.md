@@ -1,2 +1,1 @@
-# prasanshas.github.io
-My Personal portfolio
+# animated-portfolio
